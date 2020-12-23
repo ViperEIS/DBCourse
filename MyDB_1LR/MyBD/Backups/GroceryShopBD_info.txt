@@ -1,0 +1,1 @@
+{"columns": [{"col_name": "ProductPlace", "data_type": "str", "is_key_feat": "Not key"}, {"col_name": "IsRemoved", "data_type": "bool", "is_key_feat": "Not key"}, {"col_name": "Date", "data_type": "str", "is_key_feat": "Not key"}, {"col_name": "ProductID", "data_type": "int", "is_key_feat": "Key"}], "name": "GroceryShopBD", "shape": [4, 3]}

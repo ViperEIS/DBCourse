@@ -1,0 +1,1 @@
+{"columns": [{"col_name": "as", "data_type": "int", "is_key_feat": "Not key"}, {"col_name": "dsda", "data_type": "int", "is_key_feat": "Not key"}, {"col_name": "we", "data_type": "int", "is_key_feat": "Key"}, {"col_name": "asf", "data_type": "float", "is_key_feat": "Not key"}, {"col_name": "sadas", "data_type": "float", "is_key_feat": "Not key"}], "name": "wwww", "shape": [5, 3]}
